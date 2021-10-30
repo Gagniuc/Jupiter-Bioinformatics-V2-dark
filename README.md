@@ -6,7 +6,7 @@ Mode: Java Script (native)
 Dependencies: none (one file app)
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=cGJAWakubKQ)
+[![Watch the video](https://github.com/Gagniuc/Jupiter-Bioinformatics-V2-dark/blob/main/ScreenShot%20-%20Jupiter%20Bioinformatics%20(V2%20-%20dark).png)](https://www.youtube.com/watch?v=cGJAWakubKQ)
 
 
 Live demo: https://gagniuc.github.io/Jupiter-Bioinformatics-V2-dark/
